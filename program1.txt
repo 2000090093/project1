@@ -1,0 +1,15 @@
+SSH Key Creation
+ssh-key -t rsa
+cat filename.pub
+copy the key and past it in SSH and Gpg key
+
+global configuration
+
+git config --global user.name ""
+git config --gloabl user.email ""
+
+git init
+notepad h.txt
+git add .
+git commit -m "version1"
+git push
